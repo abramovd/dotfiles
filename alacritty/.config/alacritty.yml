@@ -1,0 +1,8 @@
+# Configuration for Alacritty, the GPU enhanced terminal emulator.
+shell:
+  program: /bin/zsh
+  args:
+    - -l
+    - -c
+    - "tmux"
+
